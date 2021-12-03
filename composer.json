@@ -24,7 +24,7 @@
 		"php": ">=7.0.0",
 		"ext-dom": "*",
         "masterminds/html5": "^2.7",
-        "symfony/css-selector": "^5.1"
+        "symfony/css-selector": "^4.0"
     },
 	
 	"require-dev": {
